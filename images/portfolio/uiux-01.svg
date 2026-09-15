@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" width="640" height="800">
+  <rect width="640" height="800" fill="#1F3A2E"/>
+  <g opacity="0.5">
+    <circle cx="480" cy="220" r="180" fill="#6BFFB0" opacity="0.25"/>
+    <rect x="60" y="520" width="520" height="2" fill="#6BFFB0" opacity="0.5"/>
+  </g>
+  <text x="50%" y="46%" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#6BFFB0" opacity="0.9">UI / UX</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" letter-spacing="2" fill="#EFE9DE" opacity="0.55">REPLACE THIS IMAGE</text>
+</svg>
